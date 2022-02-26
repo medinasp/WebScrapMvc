@@ -9,6 +9,24 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.ppt
+*.pptx
+*.pptm
+*.xls
+*.xlsm
+*.xlsx
+*.zip
+*.mp3
+*.mp4
+*.wmv
+*.wma
+*.wav
+*.png
+*.bmp
+*.mpeg
+*.mpg
+*.avi
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
